@@ -1,3 +1,4 @@
+[![Java CI with Maven](https://github.com/Arjun-org/simple-java-maven-app/actions/workflows/maven.yml/badge.svg)](https://github.com/Arjun-org/simple-java-maven-app/actions/workflows/maven.yml)
 # simple-java-maven-app
 
 This repository is for the
